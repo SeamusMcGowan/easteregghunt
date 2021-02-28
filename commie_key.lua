@@ -2,4 +2,4 @@
 --But what say you?
 --Glory to stalin
 
-local commieKey = Vector(15134.003906,-8677.101563,84.106651)
+local commieKey = {15134.003906,-8677.101563,84.106651}
